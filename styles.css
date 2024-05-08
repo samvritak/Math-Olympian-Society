@@ -15,7 +15,7 @@ body {
     background-color:#340f34 ;
     padding: 10px;
     position: absolute;
-    top: 46%; /* Adjust as needed */
+    top: 57%; /* Adjust as needed */
     left: 0;
     transform: translateY(-50%);
     width: 50%; /* Adjust the width as per your requirement */
@@ -23,14 +23,14 @@ body {
     text-align: left;
     box-sizing: border-box; /* Include padding in width */
     color: white;
-    font-size: 50px;
+    font-size: 30px;
     font-family: Playfair Display
 }
 .rightText{
     background-color: #f0f0f0;
     padding:10px;
     position: absolute;
-    top: 50%;
+    top: 60%;
     right: 0;
     transform: translateY(-50%);
     width: 50%;
@@ -38,7 +38,7 @@ body {
     box-sizing: border-box;
     text-align: left;
 }
-.h2{
+h2{
     text-align: center;
     font-family: 'Playfair Display', serif;
     color: #340f34;
@@ -55,3 +55,17 @@ a{
 p{
     font-size:20px;
 }
+li{
+    font-size: 20px;
+}
+img{
+justify-content: center;
+}
+.nametext{
+    font-size: 30px;
+    text-align: center;
+    line-height: 0.5; 
+}
+ .line-height {
+            line-height: 0.5; /* You can adjust the value as needed */
+        }

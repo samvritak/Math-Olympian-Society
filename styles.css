@@ -1,0 +1,57 @@
+.title {
+    background-color: #340f34;
+    color: #fff;
+    padding: 10px;
+    text-align: center;
+}
+body {
+  font-family: 'Playfair Display', serif;
+}
+.navbar{
+    color: #000000;
+    text-decoration: underline;
+}
+.leftHeading{
+    background-color:#340f34 ;
+    padding: 10px;
+    position: absolute;
+    top: 46%; /* Adjust as needed */
+    left: 0;
+    transform: translateY(-50%);
+    width: 50%; /* Adjust the width as per your requirement */
+    height:200px;
+    text-align: left;
+    box-sizing: border-box; /* Include padding in width */
+    color: white;
+    font-size: 50px;
+    font-family: Playfair Display
+}
+.rightText{
+    background-color: #f0f0f0;
+    padding:10px;
+    position: absolute;
+    top: 50%;
+    right: 0;
+    transform: translateY(-50%);
+    width: 50%;
+    height: 200px; /* Adjust height as needed */
+    box-sizing: border-box;
+    text-align: left;
+}
+.h2{
+    text-align: center;
+    font-family: 'Playfair Display', serif;
+    color: #340f34;
+    font-size: 50px;
+    text-decoration: underline
+}
+.subtitle{
+    font-size: 30px;
+    text-decoration: underline;
+}
+a{
+    font-size: 20px;
+}
+p{
+    font-size:20px;
+}
